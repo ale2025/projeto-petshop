@@ -12,6 +12,7 @@ def pessoas(request):
 
 
 def cadastrar_pet(request):
+    
 
     return render(request, 'cadastro-pet.html')
 
